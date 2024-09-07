@@ -18,7 +18,7 @@ interface IERC20{
 
 }
 
-contract DIOToken is IERC20{
+contract HELToken is IERC20{
 
     string public constant name = "HEL Token";
     string public constant symbol = "HEL";

@@ -1,4 +1,5 @@
-pragma solidity ^0.8.0;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
 
 interface IERC20{
 
@@ -19,8 +20,8 @@ interface IERC20{
 
 contract DIOToken is IERC20{
 
-    string public constant name = "DIO Token";
-    string public constant symbol = "DIO";
+    string public constant name = "HEL Token";
+    string public constant symbol = "HEL";
     uint8 public constant decimals = 18;
 
     mapping (address => uint256) balances;

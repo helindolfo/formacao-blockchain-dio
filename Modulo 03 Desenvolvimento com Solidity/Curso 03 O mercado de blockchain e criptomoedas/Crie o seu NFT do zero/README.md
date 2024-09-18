@@ -17,7 +17,7 @@ Você pode verificar o registro da transação na blockchain Polygon pelo seguin
 
 Abaixo está a imagem criada com um tema futurista e assinatura personalizada, utilizada no NFT:
 
-![Imagem NFT](Modulo 03 Desenvolvimento com Solidity/Curso 03 O mercado de blockchain e criptomoedas/Crie o seu NFT do zero/picture/HelindolfoNFT.jpg)
+![HelindolfoNFT](https://github.com/helindolfo/formacao-blockchain-dio/raw/main/Modulo%2003%20Desenvolvimento%20com%20Solidity/Curso%2003%20O%20mercado%20de%20blockchain%20e%20criptomoedas/Crie%20o%20seu%20NFT%20do%20zero/picture/HelindolfoNFT.jpg)
 
 ## Comentários sobre o Processo de Criação
 

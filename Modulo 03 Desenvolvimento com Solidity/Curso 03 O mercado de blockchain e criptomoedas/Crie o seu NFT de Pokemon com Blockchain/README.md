@@ -21,10 +21,10 @@ Este projeto consiste na criação de um jogo de Pokémon chamado **PokeDIO**, o
 ## Imagens de Pokémon Criados
 
 - **Rockthorn**: Um ser elemental de terra com espinhos cristalinos nas costas e um corpo rochoso coberto de musgo.
-![Rockthorn](A_unique_cartoon_creature_with_sharp,_crystalline_.png)
+![Rockthorn](https://github.com/helindolfo/formacao-blockchain-dio/blob/main/Modulo%2003%20Desenvolvimento%20com%20Solidity/Curso%2003%20O%20mercado%20de%20blockchain%20e%20criptomoedas/Crie%20o%20seu%20NFT%20de%20Pokemon%20com%20Blockchain/picture/Aquaflare.jpg)
 
 - **Aquaflare**: Uma criatura aquática com escamas azuis brilhantes, grandes barbatanas e olhos ciano luminosos.
-![Aquaflare](A_unique_water-type_cartoon_creature_with_smooth,_.png)
+![Aquaflare](https://github.com/helindolfo/formacao-blockchain-dio/blob/main/Modulo%2003%20Desenvolvimento%20com%20Solidity/Curso%2003%20O%20mercado%20de%20blockchain%20e%20criptomoedas/Crie%20o%20seu%20NFT%20de%20Pokemon%20com%20Blockchain/picture/Aquaflare.jpg)
 
 ## Instruções para Execução
 

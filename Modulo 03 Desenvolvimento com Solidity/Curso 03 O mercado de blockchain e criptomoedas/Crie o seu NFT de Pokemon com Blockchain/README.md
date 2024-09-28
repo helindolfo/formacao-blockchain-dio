@@ -9,13 +9,13 @@ Este projeto consiste na criação de um jogo de Pokémon chamado **PokeDIO**, o
 - **Solidity**: Linguagem de programação para contratos inteligentes.
 - **Remix IDE**: Ambiente de desenvolvimento para escrever e testar contratos em Solidity.
 - **Metamask**: Carteira para interagir com a blockchain.
-- **NFT.Storage**: Armazenamento descentralizado de metadados e imagens de Pokémons.
+- **Filebase**: Armazenamento descentralizado de metadados e imagens de Pokémons.
 - **Holesky**: Rede de teste escolhida em vez do Ganache para garantir que todas as transações sejam registradas na blockchain e estejam publicamente disponíveis.
 
 ### Alterações e Justificativa das Escolhas no desafio de projeto original
 
 - **Substituição do Ganache pela Holesky**: A rede Holesky foi escolhida por permitir o registro público de todas as transações, garantindo maior transparência e acessibilidade ao nosso projeto. Isso é especialmente útil para a validação das interações no jogo.
-- **Substituição do IPFS pela NFT.Storage**: A NFT.Storage foi selecionada como solução para o armazenamento descentralizado de metadados e imagens dos Pokémons, pois oferece um serviço otimizado para NFTs, facilitando o upload e a gestão de arquivos, sem necessidade de instalação local.
+- **Substituição do IPFS pela Filebase**: O Filebase foi selecionado como solução para o armazenamento descentralizado de metadados e imagens dos Pokémons, pois oferece uma interface web simples e armazenamento confiável, facilitando o upload e a gestão de arquivos.
 - **Criação de Personagens Únicas**: Devido a questões de direitos autorais, optamos por criar personagens originais utilizando inteligência artificial para a geração das imagens. Isso garante que os Pokémons sejam únicos e livres de violação de direitos.
 
 ## Funcionalidades
@@ -42,8 +42,8 @@ Este projeto consiste na criação de um jogo de Pokémon chamado **PokeDIO**, o
    - Crie seu contrato inteligente com a lógica de Pokémon.
    - Compile e implante o contrato na rede de teste Holesky.
 
-3. **Uso do NFT.Storage**:
-   - Faça upload das imagens dos Pokémons no [NFT.Storage](https://nft.storage/).
+3. **Uso do Filebase**:
+   - Faça upload das imagens dos Pokémons no [Filebase](https://filebase.com/).
    - Utilize os CIDs fornecidos para vincular as imagens aos Pokémons no contrato.
 
 4. **Interação**:

@@ -41,6 +41,7 @@ Este projeto consiste na criação de um jogo de Pokémon chamado **PokeDIO**, o
    - Acesse o [Remix IDE](https://remix.ethereum.org/).
    - Crie seu contrato inteligente com a lógica de Pokémon.
    - Compile e implante o contrato na rede de teste Holesky.
+     [Transação] (https://holesky.beaconcha.in/tx/0xf7276197c52927f62941c7da17bc247827e5ff2e8b336f0daf92440c2ba97451)
 
 3. **Uso do Filebase**:
    - Faça upload das imagens dos Pokémons no [Filebase](https://filebase.com/).

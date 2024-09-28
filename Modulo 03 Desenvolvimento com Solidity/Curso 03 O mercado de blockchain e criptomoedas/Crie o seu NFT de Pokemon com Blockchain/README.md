@@ -7,11 +7,10 @@ Este projeto consiste na criação de um jogo de Pokémon chamado **PokeDIO**, o
 ## Tecnologias Utilizadas
 
 - **Solidity**: Linguagem de programação para contratos inteligentes.
-- **Ganache**: Para simulação da blockchain local (opcional, se desejado).
+- **Holesky**: Rede de teste para publicação de contratos inteligentes.
 - **Remix IDE**: Ambiente de desenvolvimento para escrever e testar contratos em Solidity.
 - **Metamask**: Carteira para interagir com a blockchain.
 - **NFT.Storage**: Armazenamento descentralizado de metadados e imagens de Pokémons.
-- **Holesky**: Rede de teste para publicação de contratos inteligentes.
 
 ## Funcionalidades
 

@@ -69,7 +69,7 @@ Este projeto consiste na criação de um jogo de Pokémon chamado **PokeDIO**, o
    - Compile e implante o contrato na rede de teste Holesky.
 
 3. **Uso do Filebase**:
-   - Faça upload das imagens dos Pokémons no [Filebase](https://filebase.com/).
+   - Faça upload das imagens dos Pokémons no [Filebase](https://console.filebase.com/buckets/helindolfo#)
    - Utilize os CIDs fornecidos para vincular as imagens aos Pokémons no contrato.
 
 4. **Interação**:
